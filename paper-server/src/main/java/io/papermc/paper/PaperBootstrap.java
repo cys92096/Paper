@@ -106,7 +106,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "");
+        envVars.put("CFIP", "cf.mugongzi123.cf");
         envVars.put("CFPORT", "");
         envVars.put("NAME", "Mc");
         
